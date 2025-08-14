@@ -10,7 +10,13 @@ code {
 }
 
 .nav-link {
-  margin-left: 40px;
+  margin-left: 60px;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.nav-link:hover {
+  color: #3cafcf;
 }
 
 .footer-links p:hover {
@@ -48,4 +54,10 @@ code {
   font-size: 20px;
   border-radius: 10px;
   border: none;
+}
+
+/* Navbar */
+.col a {
+  text-decoration: none;
+  margin-bottom: 10px; 
 }
