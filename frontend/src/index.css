@@ -61,3 +61,18 @@ code {
   text-decoration: none;
   margin-bottom: 10px; 
 }
+
+.no-border {
+  border: none;
+}
+
+.link-space a {
+  display: block;
+  margin-bottom: 0.1px; /* smaller than mb-1 */
+  color: #424242;
+  text-decoration: none;
+}
+
+.about-ayesha {
+  font-size: 17px;
+}

@@ -19,10 +19,12 @@ function LeftSection({
           <h1>{productName}</h1>
           <p>{productDesription}</p>
           <div>
-            <a href={tryDemo}>Try Demo</a>
-            <a href={learnMore} style={{ marginLeft: "50px" }}>
+            <a href={tryDemo} style={{ textDecoration: "none" }}>Try Demo</a>
+             &nbsp; <i class="fa fa-long-arrow-right  text-primary" aria-hidden="true"></i>
+            <a href={learnMore} style={{ marginLeft: "50px", textDecoration: "none"}}>
               Learn More
             </a>
+             &nbsp; <i class="fa fa-long-arrow-right  text-primary" aria-hidden="true"></i>
           </div>
           <div className="mt-3">
             <a href={googlePlay}>

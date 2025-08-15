@@ -8,8 +8,9 @@ function Stats() {
           <h1 className="fs-2 mb-5">Trust with confidence</h1>
           <h2 className="fs-4">Customer-first always</h2>
           <p className="text-muted">
-            That's why 1.3+ crore customers trust Zerodha with ₹3.5+ lakh crores
-            worth of equity investments.
+            That's why 1.6+ crore customers trust OneStock with ₹6+ lakh crores
+            of equity investments, making us India’s largest broker;
+            contributing to 15% of daily retail exchange volumes in India. .
           </p>
           <h2 className="fs-4">No spam or gimmicks</h2>
           <p className="text-muted">

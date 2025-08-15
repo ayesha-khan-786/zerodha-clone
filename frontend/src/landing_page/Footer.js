@@ -12,7 +12,7 @@ function Footer() {
               &copy; 2010 - 2024, Not OneStock Broking Ltd. All rights reserved.
             </p>
           </div>
-          <div className="col">
+          <div className="col link-space">
             <p>Company</p>
             <a href="">About</a>
             <br />
@@ -31,7 +31,7 @@ function Footer() {
             <a href="">OneStock cares (CSR)</a>
             <br />
           </div>
-          <div className="col">
+          <div className="col link-space">
             <p>Support</p>
             <a href="">Contact</a>
             <br />
@@ -44,7 +44,7 @@ function Footer() {
             <a href="">Downloads & resources</a>
             <br />
           </div>
-          <div className="col">
+          <div className="col link-space">
             <p>Account</p>
             <a href="">Open an account</a>
             <br />
