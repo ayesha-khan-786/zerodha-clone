@@ -76,3 +76,13 @@ code {
 .about-ayesha {
   font-size: 17px;
 }
+
+/* Ticket */
+
+.ticket-color {
+  text-decoration: none;
+  line-height: 2.5;
+  color: #2778f1ff;
+}
+
+
